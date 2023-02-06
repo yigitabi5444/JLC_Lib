@@ -1,3 +1,3 @@
 # JLC_Lib
 
-Kicad Library that contains all the jlcpcb parts of my projects
+📘Kicad Library that contains jlcpcb parts for my projects📘
